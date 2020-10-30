@@ -1,20 +1,24 @@
 <html>
     <head>
+        <meta charset="UTF-8">
         <title>Hello world</title>
     </head>
     <body>
-        <h1>My First Heading</h1>
-        <p>My First Paragraph 2</p>
-        <img src="cat.jpg">
+        <h1>Introduce myself</h1>
+        <p>My name is Suppanyu Hirunwongsawang</p>
+        <p>My nickname is New</p>
+        <h2>แนะนำตัว</h2>
+        <p>สวัสดีครับผมชื่อจริงว่า สัพพัญญู หิรัญวงศ์สว่าง ชื่อเล่นชื่อ นิว</p>
+        <img src="a.png">
+        <img src="b.png">
         <br>
-        <a href="http://www.it.kmitl.ac.th">This is a Link</a>
+        <h2><a href="https://www.youtube.com/watch?v=zCLJtnj07SU">This is my Favorite Link</a></h2>
         
-        <h2>The unordered list</h2>
-        <ul>
-            <li>Google</li>
-            <li>Yahoo</li>
-            <li>Amazon</li>
-        </ul>
+        <h1>My joke</h1>
+        <h2>การลงทุนที่ผิดพลาดที่สุด</h2>
+        <p>สามี ภรรยา คู่หนึ่ง ทะเลาะกันว่าด้วยเรื่องการเก็งกำไรทอง ภรรยาบอกให้สามี ขายทองที่ซื้อมา 20,000 บาท เมื่อกลางปี ออกไปซะ เพราะกลัวว่าราคาทองจะลดต่ำลงอีก หลังจากที่ขาดทุนมามากแล้ว
+        แต่สามี ไม่ยอม เพราะเชื่อว่า ราคาทองจะขึ้นไปถึง เกือบ30,000 บาท เหมือนเมื่อปีที่แล้ว ทำให้ภรรยาโมโหมาก ตะโกนต่อว่า ว่า“กอด ไอ้การลงทุน ที่ผิดพลาดที่สุด ในชีวิต ของแกไป ซะเถอะ ไอ้โง่!!!”
+        เมื่อภรรยาพูดจบ “สามีก็เดินมากอดภรรยา…”</p>
     
     </body>
 </html>
