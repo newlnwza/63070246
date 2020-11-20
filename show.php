@@ -19,7 +19,7 @@
     $res = mysqli_query($conn, 'SELECT * FROM guestbook');
 ?>
 <div class="container">
-    <div align="center"><h1>DataBase Table</h1></div>
+    <div align="center"><h1>ITF LAB WEB</h1></div>
     <div class="table-responsive-sm">
         <table width="400" border="1">
        	    <table class="table table-dark table-striped table-bordered">
